@@ -6,6 +6,8 @@ document.getElementById('submit-btn').addEventListener('click',function(){
     if(name === 'Misti' 
     
     || name === 'misti'
+    || name === 'Farjana'
+    || name === 'farjana'
     
     
     ){

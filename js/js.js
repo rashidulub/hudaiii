@@ -3,11 +3,11 @@ document.getElementById('submit-btn').addEventListener('click',function(){
     const name = nameField.value;
    
 
-    if(name === 'Misti' 
+    if(name === 'nadira' 
     
-    || name === 'misti'
+    || name === 'rima'
     || name === 'Farjana'
-    || name === 'farjana'
+    || name === 'Nadira'
     
     
     ){

@@ -7,7 +7,7 @@ document.getElementById('submit-btn').addEventListener('click',function(){
     
     || name === 'ashraf'
     || name === 'Ashraf'
-    || name === 'ashraf'
+    || name === 'rima'
    
     
     

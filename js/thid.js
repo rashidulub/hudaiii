@@ -4,7 +4,7 @@ document.getElementById('next-btn').addEventListener('click',function(){
     
 
 
-    if(name==="rashed" || name === 'Rashed'|| name === 'Rashidul Islam'){
+    if(name==="Nadira" || name === 'Rashed'|| name === 'Nadu'){
         window.location.href='forth.html'
     }
     else{

@@ -7,7 +7,8 @@ document.getElementById('submit-btn').addEventListener('click',function(){
     
     || name === 'rima'
     || name === 'Farjana'
-    || name === 'Nadira'
+    || name === 'Nadu'
+    || name === 'Ashraf'
     
     
     ){

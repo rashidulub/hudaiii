@@ -8,6 +8,6 @@ document.getElementById('next-btn').addEventListener('click',function(){
         window.location.href='forth.html'
     }
     else{
-        alert('Jamai er Name vule gela jan ???')
+        alert('bow er Name vule gela jan ???')
     }
 })

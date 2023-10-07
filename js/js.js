@@ -3,12 +3,12 @@ document.getElementById('submit-btn').addEventListener('click',function(){
     const name = nameField.value;
    
 
-    if(name === 'nadira' 
+    if(name === 'ashraf' 
     
-    || name === 'rima'
+    || name === 'ashraf'
     || name === 'Ashraf'
-    || name === 'Nadu'
-    || name === 'Ashraf'
+    || name === 'ashraf'
+   
     
     
     ){

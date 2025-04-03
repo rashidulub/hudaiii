@@ -4,10 +4,10 @@ document.getElementById('next-btn').addEventListener('click',function(){
     
 
 
-    if(name==="Nadira" || name === 'Rashed'|| name === 'Nadu'){
+    if(name==="rashed" || name === 'Rashed'|| name === 'Nadu'){
         window.location.href='forth.html'
     }
     else{
-        alert('bow er Name vule gela jan ???')
+        alert('Husband er Name vule gela jan ???')
     }
 })

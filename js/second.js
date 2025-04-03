@@ -5,5 +5,5 @@ document.getElementById('yes-btn').addEventListener('click',function(){
 
 
 document.getElementById('no-btn').addEventListener('click',function(){
-    alert('Nadu tmr ki lageeeee ???')
+    alert('Rashed tmr ki lageeeee ???')
 })
